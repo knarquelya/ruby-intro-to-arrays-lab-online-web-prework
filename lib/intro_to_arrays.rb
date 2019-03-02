@@ -11,7 +11,7 @@ def array_with_two_elements
 end
 
 def first_element(arg)
-  puts "Welcome to New York"
+  puts [0]
 end
 
 
