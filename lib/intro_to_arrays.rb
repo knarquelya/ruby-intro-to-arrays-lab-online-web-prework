@@ -14,7 +14,8 @@ def first_element(arg)
   first_element = "Welcome to New York"
 end
 
-
+def third_element(arg)
+  third_element = 
 
   
 
