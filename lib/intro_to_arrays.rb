@@ -19,7 +19,8 @@ def third_element(arg)
 end
 
 def last_element(arg)
-  last_element = 
+  last_element = "Out of The Woods"
+end
   
 
 
