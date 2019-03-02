@@ -22,6 +22,7 @@ def last_element(arg)
   last_element = "Out of The Woods"
 end
   
-
+def first_element_with_array_methods
+  first_element_with_array_methods
 
   
