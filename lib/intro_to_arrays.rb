@@ -15,7 +15,8 @@ def first_element(arg)
 end
 
 def third_element(arg)
-  third_element = 
+  third_element[2]
+end
 
   
 
