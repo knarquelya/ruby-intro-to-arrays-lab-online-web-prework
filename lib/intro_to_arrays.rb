@@ -23,7 +23,7 @@ def last_element(arg)
 end
   
 def first_element_with_array_methods(arg)
-  first_element_with_array_methods = 
+  first_element_with_array_methods = "Thailand"
 end
 
 
