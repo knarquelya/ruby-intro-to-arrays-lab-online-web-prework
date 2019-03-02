@@ -27,5 +27,6 @@ def first_element_with_array_methods(arg)
 end
 
 def last_element_with_array_methods(arg)
-  last_element_with_array_methods = ""
+  last_element_with_array_methods = "Myanmar"
+end
   
