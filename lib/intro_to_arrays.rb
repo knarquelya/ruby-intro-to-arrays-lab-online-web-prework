@@ -30,3 +30,7 @@ def last_element_with_array_methods(arg)
   last_element_with_array_methods = "Myanmar"
 end
   
+def length_of_array(arg)
+  length_of_array = 8
+end
+
