@@ -1,4 +1,4 @@
-x# Introduction To Arrays Lab
+# Introduction To Arrays Lab
 
 ## Objectives
 
