@@ -18,6 +18,8 @@ def third_element(arg)
   third_element = "Style"
 end
 
+def last_element(arg)
+  last_element = 
   
 
 
