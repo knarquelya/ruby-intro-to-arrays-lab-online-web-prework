@@ -11,7 +11,7 @@ def array_with_two_elements
 end
 
 def first_element(arg)
-  first_element
+  first_element = []
 end
 
 
