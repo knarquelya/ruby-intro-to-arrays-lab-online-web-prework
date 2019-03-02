@@ -10,7 +10,7 @@ def array_with_two_elements
   array_with_two_elements = ["array", "world"]
 end
 
-def first_element[arg]
+def first_element(arg)
   first_element[0]
 end
 
